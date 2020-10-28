@@ -1,0 +1,15 @@
+title: "Sklearn Tutorial"
+logo: images/tail.png
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/TailUFPB/Sklearn-Tutorial
+
+html:
+  use_repository_button: true
+  favicon: images/tail.png
+
+latex:
+  latex_engine: pdflatex
